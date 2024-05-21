@@ -1,0 +1,19 @@
+/* .owl-loaded {
+    display: block !important;
+} */
+
+.owl-dots{
+    display: none;
+}
+
+a.active{
+    color: red !important;
+}
+
+.single-product-wrap:hover{
+    border: none !important;
+}
+
+body{
+    overflow-x: hidden;
+}
